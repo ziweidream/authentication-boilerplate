@@ -1,1 +1,1 @@
-# authentication-boilerplate
+## Authentication boilerplate
